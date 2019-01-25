@@ -14,6 +14,3 @@ print("b =", b)
 a, b = b, a   # mnishvnelobebis gacvla
 print("a =", a)
 print("b =", b)
-
-
-# ეს ის ფაილია, რომელსაც ეძებდი
