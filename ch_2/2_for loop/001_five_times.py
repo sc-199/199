@@ -18,7 +18,7 @@ print()
 
 # [0,100] დიაპაზონში მოთავსებული რიცხვების ჯამი
 total = 0
-for num in range(11):
+for num in range(101):
   total += num     # total = total + num
 
 print(total)
