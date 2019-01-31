@@ -33,10 +33,10 @@ print()
 
 
 print("===> while loop <====")
-spam = 10
+spam = 0
 while spam < 5:
 	print("Hello, world!..")
-	spam += 2   # spam = spam + 1
+	spam += 1   # spam = spam + 1
 
 print(spam)
 
