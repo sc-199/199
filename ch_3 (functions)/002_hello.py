@@ -9,8 +9,10 @@ def hello(name="world!.."):
 
 # -------------------
 # hello("Paata")
-hello()
 hello("John")
+hello("Alice")
+hello("Sam")
+hello()
 
 
 
