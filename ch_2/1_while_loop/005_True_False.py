@@ -1,6 +1,8 @@
 name = ""
 
-while not name:
+# 0, 0.00, '', ""  <===>  False
+
+while not name:   # not False
   print("Enter your name:")
   name = input()
 
