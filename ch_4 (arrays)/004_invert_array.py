@@ -22,9 +22,9 @@ def test_invert_array():
   print(arr1)
 
   if arr1 == [5, 4, 3, 2, 1]:
-    print("#Test1 – OK\n")
+    print("#Test1 - OK\n")
   else:
-    print("#Test1 – FAIL\n")
+    print("#Test1 - FAIL\n")
 
 
 # ------ #Test2 ---------
@@ -34,9 +34,9 @@ def test_invert_array():
   print(arr2)
   
   if arr2 == ([10] + [0]*7):
-    print("#Test2 – OK")
+    print("#Test2 - OK")
   else:
-    print("#Test2 – FAIL")
+    print("#Test2 - FAIL")
 
 
 
